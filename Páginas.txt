@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> La Nube: tipos de servicio</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="style2.css">
+
+        
+
+</head>
+<body background="#">
+	<ul class="menu">
+		<li><a href="INICIO.html">INICIO</a></li>
+		<li><a href="VENTAJAS.html">VENTAJAS</a></li>
+		<li><a href="TIPOS.html">TIPOS</a></li>
+		<li><a href="TIPOS DE SERVICIO.html">TIPOS DE SERVICIO</a></li>
+		<li><a href="SERVICIOS.html">SERVICIOS</a></li>
+		<li><a href="MANUALES.html">MANUALES</a></li>
+		<li><a href="Informacion.html">INFORMACION</a></li>
+                <li><a href="PÁGINAS.html">PÁGINAS</a></li>
+	</ul>
+	<body bgcolor black>
+<table width="70%" border="1" align="center" cellspacing="1" cellpadding="10px" bordercolor="#000000" bgcolor="#FFBF5EF">
+<br><br><br>
+
+      <tr aling="center" bgcolor="red">
+         <th colspan="8"><h1><b><H4><B><FONT COLOR="white">PÁGINAS QUE TE PUEDEN AYUDAR</FONT><br></H4></b></h1></th>
+      </tr>
+
+      <tr aling="center" valign="middle" bgcolor="yellow">
+         <th colspan="8"><h1><H4>(ha doble clic en las miniaturas para vizualizar las páginas)</H4></h1></th>
+      </tr>
+
+  <tr aling="center" bgcolor="#D8D8D8">
+    <td colspan="1"><a href="https://es.wikipedia.org/wiki/Coliseo"target="blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/245px-Colosseo_2020.jpg" width="250" height="250">
+         
+         <hr>
+      	 <h4><center>Roma</center></h4>
+      	 </hr>
+         <td colspan="2"><a href="https://es.wikipedia.org/wiki/Islas_Gal%C3%A1pagos"target="blank">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Galapagos-satellite-2002.jpg/245px-Galapagos-satellite-2002.jpg" width="250" height="250">
+ 
+         <hr>
+      	 <h4><center>Ecuador</center></h4>
+      	 </th>
+         <td colspan="3"><a href="https://en.wikipedia.org/wiki/Taj_Mahal"target=blank">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Taj_Mahal_in_India_-_Kristian_Bertel.jpg/250px-Taj_Mahal_in_India_-_Kristian_Bertel.jpg" width="260" heigt="260">
+    
+         <hr>
+      	 <h4><center>India</center></h4>
+      	 </hr>
+
+         <td colspan="4"><a href="https://es.wikipedia.org/wiki/Kremlin_de_Mosc%C3%BA"target=blank">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Moscow_05-2012_Kremlin_22.jpg/270px-Moscow_05-2012_Kremlin_22.jpg" width="250" height="250">
+        
+         <hr>
+      	 <h4><center>Rusia</center></h4>
+      	 </hr>
+  <br> 
+ </tr>
+<th colspan="8"body bgcolor="red" style="color:white"> Trabajo Realizado Por: Dayana Dileydi Gómez Torres</th>
+</table>

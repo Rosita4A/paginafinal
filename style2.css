@@ -1,0 +1,37 @@
+*{
+	margin: 1%;
+	padding: 0%;
+	box-sizing: border-box;
+	font-family: sans-serif;
+
+}
+
+.container-all {
+	width: 100;
+	max-width: 1000px;
+	margin: auto;
+	padding: 60px;
+	background: #FDC067;
+	margin-top: 40px;
+
+
+}
+
+.title{
+	font-size: 40px;
+	margin-bottom: 60px; 
+
+}
+
+.container-all img{
+	width: 300px;
+	float: right;
+
+}
+
+.container-all p{
+	font-size: 18px;
+	font-weight: 300;
+
+
+}
